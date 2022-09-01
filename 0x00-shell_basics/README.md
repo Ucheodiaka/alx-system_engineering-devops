@@ -15,4 +15,6 @@ The file 6-firstdirectory will creat a directory named my_first_directory in the
 
 The file 7-movethatfile will move the file into a different directory
 
-The file 8-firstdelete will delete betty from my_first_directory 
+The file 8-firstdelete will delete betty from my_first_directory
+
+The file 9-firstdirdeletion will delete my_first_directory 
