@@ -9,4 +9,6 @@ The file 3-listfiles will list all the files in my directory in a long format
 
 The file 4-listmorefiles will show all files and the hidden files too
 
-The file 5-listfilesdigit will list only numbers in the files 
+The file 5-listfilesdigit will list only numbers in the files
+
+The file 6-firstdirectory will creat a directory named my_first_directory in the tmp directory 
