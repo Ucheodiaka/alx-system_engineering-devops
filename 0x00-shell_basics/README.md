@@ -11,4 +11,6 @@ The file 4-listmorefiles will show all files and the hidden files too
 
 The file 5-listfilesdigit will list only numbers in the files
 
-The file 6-firstdirectory will creat a directory named my_first_directory in the tmp directory 
+The file 6-firstdirectory will creat a directory named my_first_directory in the tmp directory
+
+The file 7-movethatfile will move the file into a different directory 
