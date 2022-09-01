@@ -21,4 +21,6 @@ The file 9-firstdirdeletion will delete my_first_directory
 
 The file 10-back takes it one step back to previous one
 
-The file 11-lists will list all files with a period character
+The file 11-lists will list all files with a period character 
+
+The file 12-file_type will print the type file name 
