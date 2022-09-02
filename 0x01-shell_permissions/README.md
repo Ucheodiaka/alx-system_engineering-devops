@@ -5,4 +5,5 @@
 4-empty will have an empty file
 5-execute adds execute permission to the owner of the file
 6-multiple_permissions gives the owner and the group owner read permission to other users
-7-everybody gives permission to everybody 
+7-everybody gives permission to everybody
+8-Jame_Bond gives all permissions to only other users  
