@@ -1,4 +1,3 @@
-b
 The 0-current_working_directory runs commands to show where I an current working
 on.
 
@@ -30,4 +29,6 @@ The file 13-symbolic_link creates a link
 
 The file 14-copy_html will copy html text
 
-The gile 15-lets_move will move the file 
+The gile 15-lets_move will move the file
+
+The 101-clean_emacs 
