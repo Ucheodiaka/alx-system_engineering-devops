@@ -11,4 +11,5 @@
 10-mirror_permissions gives both files same permissions
 11-directories_permissions gives permissions to all subdirectories of the current directoryof the owner 
 12-directory_permissions creates a new dir called my_dir with permission 751 
-13-change_group changes the group owner to school for the file hello  
+13-change_group changes the group owner to school for the file hello 
+100-change_owner_and_group changes owner and group to staff for all the files and directories in the working directory  
