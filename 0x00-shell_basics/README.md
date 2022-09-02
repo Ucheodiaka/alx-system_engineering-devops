@@ -35,4 +35,6 @@ The 101-clean_emacs
 
 The 102-tree 
 
-The 103-commas 
+The 103-commas
+
+The file type 
