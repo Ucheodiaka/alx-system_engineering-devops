@@ -9,4 +9,5 @@
 8-Jame_Bond gives all permissions to only other users 
 9-John_Doe just set the mode of the file to hello
 10-mirror_permissions gives both files same permissions
-11-directories_permissions gives permissions to all subdirectories of the current directoryof the owner  
+11-directories_permissions gives permissions to all subdirectories of the current directoryof the owner 
+12-directory_permissions creates a new dir called my_dir with permission 751  
