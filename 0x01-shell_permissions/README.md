@@ -6,4 +6,5 @@
 5-execute adds execute permission to the owner of the file
 6-multiple_permissions gives the owner and the group owner read permission to other users
 7-everybody gives permission to everybody
-8-Jame_Bond gives all permissions to only other users  
+8-Jame_Bond gives all permissions to only other users 
+9-John_Doe just set the mode of the file to hello 
