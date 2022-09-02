@@ -2,4 +2,5 @@
 1-who_am_i show your name 
 2-groups print all the groups in the current user part
 3-new_owner changes to hello 
-4-empty will have an empty file 
+4-empty will have an empty file
+5-execute adds execute permission to the owner of the file 
