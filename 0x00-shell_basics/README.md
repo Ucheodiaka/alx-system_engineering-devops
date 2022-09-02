@@ -1,4 +1,3 @@
-b
 The 0-current_working_directory runs commands to show where I an current working
 on.
 
@@ -26,4 +25,6 @@ The file 11-lists will list all files with a period character
 
 The file 12-file_type will print the type file name
 
-The file 13-symbolic_link creates a link 
+The file 13-symbolic_link creates a link
+
+The file 14-copy_html will copy html text 
