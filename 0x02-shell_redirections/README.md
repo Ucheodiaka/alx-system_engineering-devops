@@ -11,4 +11,5 @@
 10-no more js will deleta all the ragular files with .js
 11-directories will count the number of dir and subdir in the current directory  
 12-newest file will display the 10 newest file in current dir 
-13-unique will take a list of words as input and print only words that appear exactly once  
+13-unique will take a list of words as input and print only words that appear exactly once 
+14-findthatword will display lines containing the pattern root from the file /etc/passwd  
