@@ -16,4 +16,5 @@
 15-countthatword will display the number of lines that contain the pattern bin in the file /etc/passwd 
 16-whatsnext display lines containing the pattern root and 3 lines after them in the file /etc/passwd  
 17-hidethisword will display all the lines in the file /etc/passwd that do not contain the patter bin 
-18-letteronly will display all line of the file starting with a letter  
+18-letteronly will display all line of the file starting with a letter 
+19-AZ will replace all characters A and c with Z and e respectively  
