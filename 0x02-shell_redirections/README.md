@@ -8,4 +8,5 @@
 7-file will create a file with the content of Best School
 8-cwd_state will overwrite
 9-duplicate last line will duplicate the last line of the file 
-10-no more js will deleta all the ragular files with .js  
+10-no more js will deleta all the ragular files with .js
+11-directories will count the number of dir and subdir in the current directory   
