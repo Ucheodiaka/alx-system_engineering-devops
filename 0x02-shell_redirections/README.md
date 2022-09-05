@@ -18,4 +18,5 @@
 17-hidethisword will display all the lines in the file /etc/passwd that do not contain the patter bin 
 18-letteronly will display all line of the file starting with a letter 
 19-AZ will replace all characters A and c with Z and e respectively 
-20-hiago will create a script that removes all letter c and C from input  
+20-hiago will create a script that removes all letter c and C from input 
+21-reverse will reverse its input  
