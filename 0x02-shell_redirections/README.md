@@ -9,4 +9,5 @@
 8-cwd_state will overwrite
 9-duplicate last line will duplicate the last line of the file 
 10-no more js will deleta all the ragular files with .js
-11-directories will count the number of dir and subdir in the current directory   
+11-directories will count the number of dir and subdir in the current directory  
+12-newest file will display the 10 newest file in current dir  
