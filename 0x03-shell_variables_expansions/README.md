@@ -1,1 +1,2 @@
-0-alias create a script
+0-alias create a script\n  
+1-hello you\n
